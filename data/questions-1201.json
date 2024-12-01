@@ -1,0 +1,602 @@
+[
+  {
+    "question": "If animals could form governments, which species would create the most effective one, and what would their policies look like?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How did the Great Emu War of 1932 in Australia become one of the most bizarre military conflicts in history?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What were some of the most ridiculous inventions you’ve never heard of that were “patented” in the 1800s?",
+    "category": "History"
+  },
+  {
+    "question": "What would happen if dragons were real and could be domesticated in today's soceity?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What is the story behind Pompeii and how its sudden destruction by Mount Vesuvius in 79 AD still fascinates us today?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "How did The Haitian Revolution of 1791-1804 become the only successful slave rebellion in history?",
+    "category": "History"
+  },
+  {
+    "question": "Why do we get goosebumps when we're cold or frightened?",
+    "category": "Science"
+  },
+  {
+    "question": "What if ancient Egypt had discovered electricity? How would history have unfolded differently?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What if dinosaurs still roamed the Earth, but only on one isolated continent? What would life look like today?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What if animals suddenly gained human-level intelligence? How would this affect ecosystems and industries?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How do trees communicate with other trees underground?",
+    "category": "Science"
+  },
+  {
+    "question": "If humans discovered a drug to stop aging tomorrow, what would the world look like in 50 years?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How could you succeed as a musician before the printing press existed?",
+    "category": "History"
+  },
+  {
+    "question": "What would life be like if the Library of Alexandria had never been destroyed?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What would it be like to be a merchant on the Silk Road during its height?",
+    "category": "History"
+  },
+  {
+    "question": "What would North America be like if the Native Americans were never displaced?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What would the world be like in 1000 years if sea levels rise at the same pace as now?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How would the world function if everyone had the same level of intelligence?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What if teleportation technology existed and became the primary means of travel?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What would life be like if you could live for 500 years?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How would our routines change if each of us had the ability to stop time for an hour each day?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What would life be like if everyone was born with a unique super power?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How would society handle immortality if everyone could choose to live forever?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "Would you choose to live in a world where everyone tells the truth, no matter the consequences?",
+    "category": "Philosophical"
+  },
+  {
+    "question": "How would society change if every human had the ability to erase any one memory from their mind?",
+    "category": "Philosophical"
+  },
+  {
+    "question": "What if all crimes could be solved instantly, but doing so meant sacrificing someone else’s freedom?",
+    "category": "Philosophical"
+  },
+  {
+    "question": "How could we terraform Mars to make it more Earth-like?",
+    "category": "Science"
+  },
+  {
+    "question": "What if the moon suddenly disappeared—how would life on Earth change?",
+    "category": "Science"
+  },
+  {
+    "question": "Why do some planets in our solar system have rings, but others don’t?",
+    "category": "Science"
+  },
+  {
+    "question": "Could humans survive on the surface of Venus with the right technology?",
+    "category": "Science"
+  },
+  {
+    "question": "What would happen if we could travel at the speed of light?",
+    "category": "Science"
+  },
+  {
+    "question": "How does time dilation work, and why does it make time move differently in space?",
+    "category": "Science"
+  },
+  {
+    "question": "Could humans ever be immune to all diseases?",
+    "category": "Science"
+  },
+  {
+    "question": "Why do some animals, like axolotls, have the ability to regenerate limbs, but humans don’t?",
+    "category": "Science"
+  },
+  {
+    "question": "Could we ever control earthquakes or prevent them from happening?",
+    "category": "Science"
+  },
+  {
+    "question": "What would life be like if we had self-replicating machines that could build anything?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How do vaccines work to protect us from diseases?",
+    "category": "Science"
+  },
+  {
+    "question": "Why do we hiccup, and is there any real purpose to it?",
+    "category": "Science"
+  },
+  {
+    "question": "How do stem cells work, and why are they so important for medicine?",
+    "category": "Science"
+  },
+  {
+    "question": "What makes some people immune to certain diseases while others aren’t?",
+    "category": "Science"
+  },
+  {
+    "question": "What would happen if all the bees disappeared from the planet?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "How do some species of fungi control the minds of other creatures, like ants?",
+    "category": "Science"
+  },
+  {
+    "question": "Why is the Earth’s biodiversity so important for human survival?",
+    "category": "Science"
+  },
+  {
+    "question": "What happens in our brain when we dream?",
+    "category": "Science"
+  },
+  {
+    "question": "What causes déjà vu, and why does it feel so strange?",
+    "category": "Science"
+  },
+  {
+    "question": "Why do cats always land on their feet when they fall?",
+    "category": "Animals"
+  },
+  {
+    "question": "How do certain animals, like bats and dolphins, use echolocation to navigate?",
+    "category": "Animals"
+  },
+  {
+    "question": "What is the Mandela Effect, and why do so many people remember things differently than they actually occurred?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What’s the “Trolley Problem” in ethics, and how does it apply to real-life moral decisions?",
+    "category": "Philosophical"
+  },
+  {
+    "question": "What is the “Fermi Paradox,” and why have we not found evidence of extraterrestrial life, despite the vastness of space?",
+    "category": "Philosophical"
+  },
+  {
+    "question": "How do near-death experiences work, and why do people report seeing similar visions?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "Could humans ever achieve \"telekinesis\" or moving objects with the mind?",
+    "category": "Science"
+  },
+  {
+    "question": "What is the “Philadelphia Experiment,” and could there have been real experiments to make objects invisible to radar during World War II?",
+    "category": "History"
+  },
+  {
+    "question": "What causes the \"phantom limb\" sensation in amputees, and is it linked to brain rewiring?",
+    "category": "Science"
+  },
+  {
+    "question": "How do some animals, like sharks, navigate and sense electrical fields around them?",
+    "category": "Animals"
+  },
+  {
+    "question": "What’s the science behind “ghosts,” and why do people often experience haunted places?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "Is time really a constant, or is it different depending on where you are in the universe?",
+    "category": "Science"
+  },
+  {
+    "question": "If consciousness exists after death, how might it manifest?",
+    "category": "Philosophical"
+  },
+  {
+    "question": "What would it be like to live in a world where all senses are enhanced to superhuman levels?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "What would happen if we could access and harness the power of a star?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "If energy was unlimited, would it drive down inequality?",
+    "category": "Alternate Reality"
+  },
+  {
+    "question": "Why does the sound of nails on a chalkboard cause a visceral reaction in most people?",
+    "category": "Science"
+  },
+  {
+    "question": "What causes the phenomenon of “mirages” in the desert, and can they be replicated artificially?",
+    "category": "Science"
+  },
+  {
+    "question": "What was the “Dancing Plague” of 1518, and how did it affect the people of Strasbourg?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What is the story behind the Tulip Mania in the 17th century, and how did it lead to one of the first economic bubbles?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "Who was Cleopatra, and what were some of the unexpected ways she influenced Roman politics?",
+    "category": "History"
+  },
+  {
+    "question": "How did Vlad the Impaler (Dracula) inspire myths and legends, and what was his real historical impact?",
+    "category": "History"
+  },
+  {
+    "question": "How did Hedy Lamarr, famous for her acting career, also contribute to technology during World War II?",
+    "category": "History"
+  },
+  {
+    "question": "How did Hannibal use war elephants to cross the Alps and invade Rome, and what made his tactics so revolutionary?",
+    "category": "History"
+  },
+  {
+    "question": "How did Genghis Khan go from an outcast to the founder of one of the largest empires in history?",
+    "category": "History"
+  },
+  {
+    "question": "What sparked the French Revolution, and how did it change not just France, but the world?",
+    "category": "History"
+  },
+  {
+    "question": "What were the major events and figures that led to the American Civil Rights Movement of the 1960s?",
+    "category": "History"
+  },
+  {
+    "question": "What led to the mysterious collapse of the Maya Civilization, and what discoveries have been made about their society since?",
+    "category": "History"
+  },
+  {
+    "question": "How did the Inca Empire manage such impressive engineering feats, like Machu Picchu, without the wheel or written language?",
+    "category": "History"
+  },
+  {
+    "question": "What was the significance of the Apollo 11 moon landing, and how did it symbolize the peak of human achievement?",
+    "category": "History"
+  },
+  {
+    "question": "How did The Great Wall of China come to be built, and what role did it play in the empire’s defense strategies?",
+    "category": "History"
+  },
+  {
+    "question": "Why did some European monarchs practice trial by combat, and how did it influence the justice system?",
+    "category": "History"
+  },
+  {
+    "question": "How did the practice of foot-binding in China for over a thousand years come to be, and what were its lasting effects?",
+    "category": "History"
+  },
+  {
+    "question": "How did the Pope's decision to sell indulgences in the 16th century spark the Protestant Reformation?",
+    "category": "History"
+  },
+  {
+    "question": "How did Marco Polo's travels to China open up new trade routes and influence European exploration?",
+    "category": "History"
+  },
+  {
+    "question": "What inspired Christopher Columbus to sail westward in 1492, and what was the immediate aftermath of his journey?",
+    "category": "History"
+  },
+  {
+    "question": "What was life like before service animals, and what events lead to the acknowledgement of legal service animals?",
+    "category": "History"
+  },
+  {
+    "question": "How did the Gadsden Purchase in 1854 reshape the United States, and what was its real purpose?",
+    "category": "History"
+  },
+  {
+    "question": "What was The Great Fire of London in 1666, and how did it change the face of the city forever?",
+    "category": "History"
+  },
+  {
+    "question": "What was the Sykes-Picot Agreement, and how did it shape the modern Middle East?",
+    "category": "History"
+  },
+  {
+    "question": "How did the Catherine Wheel torture device become one of the most feared instruments of medieval punishment?",
+    "category": "History"
+  },
+  {
+    "question": "Why do penguins waddle when they walk, and is it really the most efficient way to move around?",
+    "category": "Animals"
+  },
+  {
+    "question": "How do sloths manage to sleep up to 20 hours a day without getting bored?",
+    "category": "Animals"
+  },
+  {
+    "question": "Why can an Ibex climb up steep mountains without fear?",
+    "category": "Animals"
+  },
+  {
+    "question": "Why do cows have best friends, and what happens when they are separated from them?",
+    "category": "Animals"
+  },
+  {
+    "question": "What makes the “spicy” in chili peppers burn, and why do we eat it if it causes pain (yet keeps us coming back for more)?",
+    "category": "Science"
+  },
+  {
+    "question": "Why did people once think tomatoes were poisonous, and how did they go from fear to being a salad staple?",
+    "category": "History"
+  },
+  {
+    "question": "Why did ancient Romans use urine for cleaning clothes?",
+    "category": "History"
+  },
+  {
+    "question": "What’s the story behind how King Charles VI of France believed he was made of glass?",
+    "category": "History"
+  },
+  {
+    "question": "How did medieval knights come up with the idea of throwing pigs at enemies as a “weapon”?",
+    "category": "History"
+  },
+  {
+    "question": "Why did ancient Egyptians shave off their eyebrows as a way to mourn the death of their cats?",
+    "category": "History"
+  },
+  {
+    "question": "Why did Google almost have a different name, and what was the hilarious original option?",
+    "category": "History"
+  },
+  {
+    "question": "How did some of the most iconic songs in history almost never get released?",
+    "category": "History"
+  },
+  {
+    "question": "What’s a famous actor or celebrity that started their career in a funny, but odd way?",
+    "category": "History"
+  },
+  {
+    "question": "How did cartoons like The Simpsons predict real-world events with uncanny accuracy?",
+    "category": "History"
+  },
+  {
+    "question": "What’s an incredibly remote place on Earth that people still live in, and what’s life like there?",
+    "category": "History"
+  },
+  {
+    "question": "What’s the strangest law or rule you might encounter in another country?",
+    "category": "History"
+  },
+  {
+    "question": "What’s an everyday item we use today that was originally invented for something completely different?",
+    "category": "History"
+  },
+  {
+    "question": "How did emojis become a global language, and what’s the story behind the invention of the “smiley face”?",
+    "category": "History"
+  },
+  {
+    "question": "What’s the origin of the handshake, and how did it become a universal greeting?",
+    "category": "History"
+  },
+  {
+    "question": "Why do some people think it’s bad luck to open an umbrella indoors, and where does this superstition come from?",
+    "category": "History"
+  },
+  {
+    "question": "What’s a funny way someone accidentally invented something that changed the world?",
+    "category": "History"
+  },
+  {
+    "question": "Why was the color purple historically considered so important that it was restricted to royalty?",
+    "category": "History"
+  },
+  {
+    "question": "What’s the story behind how Wi-Fi got its name, and does it actually mean anything?",
+    "category": "History"
+  },
+  {
+    "question": "What’s the history behind the first computer virus, and was it actually meant as a prank?",
+    "category": "History"
+  },
+  {
+    "question": "Why do people instinctively yawn when they see someone else do it, even when they’re not tired?",
+    "category": "Science"
+  },
+  {
+    "question": "How did the habit of clapping hands to show approval begin, and why does it work?",
+    "category": "Science"
+  },
+  {
+    "question": "What’s the story behind how rock-paper-scissors became a universal decision-making game?",
+    "category": "History"
+  },
+  {
+    "question": "What was the story of the man who robbed a bank because he thought lemon juice made him invisible?",
+    "category": "History"
+  },
+  {
+    "question": "Why do people report hearing a loud \"boom\" during an earthquake even though sound doesn't travel through the air at that magnitude?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What causes the strange sounds heard during the Northern Lights?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What is ball lightning, and why do scientists still find it mysterious?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "Why do fire tornadoes form, and how are they different from regular tornadoes?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What causes \"the uncanny valley\" effect in humans when they encounter robots or digital faces?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "How does the brain decide to wake you up just before your alarm goes off?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What is synesthesia, and why do some people \"taste colors\" or \"hear shapes\"?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "How do placebo surgeries work, and what does this reveal about the brain's role in healing?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What is the \"cosmic void,\" and why are there vast areas of space with almost nothing in them?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What is sleep paralysis, and why do people often report seeing shadowy figures during it?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What causes \"ghost lights\" or will-o'-the-wisps in remote areas?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What is the science behind people claiming to see their life \"flash before their eyes\"?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "What caused the phenomenon of mass hysteria in historical events like the Salem witch trials?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "Why do humans sometimes sense they're being watched even when they can't see the observer?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "How can identical twins sometimes report feeling each other’s pain?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "Who was Mad Jack Churchill, the WWII soldier who fought with a sword, bow, and bagpipes?",
+    "category": "History"
+  },
+  {
+    "question": "What led Franz Reichelt, the \"Flying Tailor,\" to jump off the Eiffel Tower to test his parachute design?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "Who was Victor Lustig, and how did he \"sell\" the Eiffel Tower twice to unsuspecting buyers?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What made the 1904 Mens Marathon at the Olympics so bizarre and hard to finish?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What was it like when Nazi Germany hosted the 1936 Summer Olympics?",
+    "category": "History"
+  },
+  {
+    "question": "What was so mysterious about the Star Dust plane accident in 1947?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "How did the 1955 Le Mans disaster become the worst accident in motorsport history?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What remains unsolved about the 1991 Austin yogurt shop murders?",
+    "category": "Strange Phenomena"
+  },
+  {
+    "question": "How did two men manage to steal a 727 plane in 2003 and disappear?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "Why is 33 Thomas Street in Manhattan considered a sinister and mysterious building?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What made Action Park so infamous for being dangerous?",
+    "category": "History"
+  },
+  {
+    "question": "Who was Adolfo Constanzo and what did his cult do?",
+    "category": "History"
+  },
+  {
+    "question": "What makes ADX Florence a notorious supermax prison in the U.S.?",
+    "category": "History"
+  },
+  {
+    "question": "How did Aeroflot Flight 593 crash due to a pilot’s son accidentally disengaging the autopilot?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What caused the sudden spike in airborne radioactivity in Europe in 2017, and why is no one taking responsibility for it?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "Why is Alan Smithee known as a prolific yet non-existent director?",
+    "category": "History"
+  },
+  {
+    "question": "Who was Albert Fish and what made his crimes so horrifying?",
+    "category": "Wild Events"
+  },
+  {
+    "question": "What made Albert Pierrepoint one of the most notorious executioners in Great Britain?",
+    "category": "History"
+  },
+  {
+    "question": "What was the Japanese cult Aleph, and what role did it play in the Tokyo subway attack?",
+    "category": "History"
+  },
+  {
+    "question": "What made the parrot Alex famous for his communication skills?",
+    "category": "History"
+  },
+  {
+    "question": "How did Anatoli Bugorski survive a deadly particle accelerator accident?",
+    "category": "History"
+  }
+]
