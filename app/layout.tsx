@@ -1,6 +1,7 @@
 import './globals.css';
 import type { Metadata } from 'next';
 import { Noto_Sans } from 'next/font/google';
+import { Analytics } from "@vercel/analytics/react"
 
 const noto = Noto_Sans({ subsets: ['latin'], weight: '400' });
 
@@ -19,7 +20,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={noto.className}>{children}</body>
+      <body className={noto.className}>
+        {children}
+        <Analytics mode="auto" />
+      </body>
     </html>
   );
 }
